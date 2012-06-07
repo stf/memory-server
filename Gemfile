@@ -22,7 +22,6 @@ end
 
 group :test, :development do
   gem 'rspec-rails'
-  gem 'turnip'
 end
 
 group :development do
