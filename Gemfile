@@ -25,6 +25,10 @@ group :test, :development do
   gem 'turnip'
 end
 
+group :development do
+  gem 'heroku'
+end  
+
 gem 'jquery-rails'
 
 # To use ActiveModel has_secure_password
